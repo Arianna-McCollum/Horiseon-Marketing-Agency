@@ -9,3 +9,7 @@ To do so, I have implemented HTML Semantics and have also included alternate tex
 ![Screenshot (5)](https://user-images.githubusercontent.com/84581536/123312571-88607c00-d4f6-11eb-9364-4926719fc3c9.png)
 ![Screenshot (6)](https://user-images.githubusercontent.com/84581536/123312590-8f878a00-d4f6-11eb-814e-e4aa612a0b12.png)
 ![Screenshot (7)](https://user-images.githubusercontent.com/84581536/123312620-96ae9800-d4f6-11eb-95ea-f23c5d226d6d.png)
+
+*Link to deployed page*
+
+https://electrolion.github.io/Horiseon-Marketing-Agency/
